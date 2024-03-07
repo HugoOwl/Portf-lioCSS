@@ -1,0 +1,1 @@
+Um projeto que fiz para treinar minhas técnicas avançado em CSS, desenvolvido exclusivamente com HTML, CSS e JavaScript puro. Este portfólio interativo demonstra habilidades avançadas em design responsivo, animações CSS e manipulação do DOM. Cada seção apresenta animações suaves ao rolar, proporcionando uma experiência de usuário moderna e envolvente.
